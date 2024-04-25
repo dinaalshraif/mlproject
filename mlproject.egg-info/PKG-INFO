@@ -1,11 +1,8 @@
 Metadata-Version: 2.1
 Name: mlproject
 Version: 0.0.1
-Summary: UNKNOWN
-Author: Dina Alsharif
+Author: Dina
 Author-email: dinaalshraif@gmail.com
-License: UNKNOWN
-Platform: UNKNOWN
-
-UNKNOWN
-
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
